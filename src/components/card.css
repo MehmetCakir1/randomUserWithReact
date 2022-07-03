@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.picture img{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 2rem;
+}
+.picture{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+    padding: 0.3rem;
+}
+
+.email img,.phone img, .location img{
+    width: 2rem;
+    height: 2rem;
+}
+.email,.phone,.location{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    text-align: center;
+    align-items: center;
+    padding: 0.3rem;
+}
+.age,.date{
+    padding: 0.3rem;
+}
