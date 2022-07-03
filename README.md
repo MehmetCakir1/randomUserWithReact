@@ -5,5 +5,6 @@
 *__I got info from "https://randomuser.me/api/"__<br>
 *__onClick Events__<br>
 *__Grid Layout__<br>
-![](https://github.com/MehmetCakir1/randomUserWithReact/blob/master/randomUser.gif)
+
+<div align="center"><img alt="Project" src="https://github.com/MehmetCakir1/randomUserWithReact/blob/master/randomUser.gif"</div>
 
